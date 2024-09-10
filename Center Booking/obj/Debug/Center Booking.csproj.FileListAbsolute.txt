@@ -1,0 +1,18 @@
+D:\programmin\first jorney\Center Booking\bin\Debug\Center Booking.exe.config
+D:\programmin\first jorney\Center Booking\bin\Debug\Center Booking.exe
+D:\programmin\first jorney\Center Booking\bin\Debug\Center Booking.pdb
+D:\programmin\first jorney\Center Booking\obj\Debug\Center Booking.csproj.AssemblyReference.cache
+D:\programmin\first jorney\Center Booking\obj\Debug\Center_Booking.frmCenterBooking.resources
+D:\programmin\first jorney\Center Booking\obj\Debug\Center_Booking.Properties.Resources.resources
+D:\programmin\first jorney\Center Booking\obj\Debug\Center Booking.csproj.GenerateResource.cache
+D:\programmin\first jorney\Center Booking\obj\Debug\Center Booking.csproj.CoreCompileInputs.cache
+D:\programmin\first jorney\Center Booking\obj\Debug\Center Booking.exe
+D:\programmin\first jorney\Center Booking\obj\Debug\Center Booking.pdb
+D:\programmin\first jorney\Center Booking\bin\Debug\Center Booking Devices.exe
+D:\programmin\first jorney\Center Booking\bin\Debug\Guna.UI2.dll
+D:\programmin\first jorney\Center Booking\bin\Debug\Center Booking Devices.pdb
+D:\programmin\first jorney\Center Booking\bin\Debug\Center Booking Devices.exe.config
+D:\programmin\first jorney\Center Booking\obj\Debug\Center B.B16114CD.Up2Date
+D:\programmin\first jorney\Center Booking\obj\Debug\Center_Booking.frmDeviceInfo.resources
+D:\programmin\first jorney\Center Booking\obj\Debug\Center_Booking.frmCostCalculator.resources
+D:\programmin\first jorney\Center Booking\obj\Debug\Center_Booking.frmBookedDeviceInfo.resources

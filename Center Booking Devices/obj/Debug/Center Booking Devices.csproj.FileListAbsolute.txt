@@ -1,0 +1,12 @@
+D:\programmin\first jorney\Center Booking Devices\bin\Debug\Center Booking Devices.exe.config
+D:\programmin\first jorney\Center Booking Devices\bin\Debug\Center Booking Devices.exe
+D:\programmin\first jorney\Center Booking Devices\bin\Debug\Center Booking Devices.pdb
+D:\programmin\first jorney\Center Booking Devices\bin\Debug\Guna.UI2.dll
+D:\programmin\first jorney\Center Booking Devices\obj\Debug\Center Booking Devices.csproj.AssemblyReference.cache
+D:\programmin\first jorney\Center Booking Devices\obj\Debug\Center_Booking_Devices.frmCenterDevicesControl.resources
+D:\programmin\first jorney\Center Booking Devices\obj\Debug\Center_Booking_Devices.Properties.Resources.resources
+D:\programmin\first jorney\Center Booking Devices\obj\Debug\Center Booking Devices.csproj.GenerateResource.cache
+D:\programmin\first jorney\Center Booking Devices\obj\Debug\Center Booking Devices.csproj.CoreCompileInputs.cache
+D:\programmin\first jorney\Center Booking Devices\obj\Debug\Center B.95EBF52D.Up2Date
+D:\programmin\first jorney\Center Booking Devices\obj\Debug\Center Booking Devices.exe
+D:\programmin\first jorney\Center Booking Devices\obj\Debug\Center Booking Devices.pdb
