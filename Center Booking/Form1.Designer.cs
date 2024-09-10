@@ -235,7 +235,7 @@
             this.nudMinutes.Size = new System.Drawing.Size(75, 28);
             this.nudMinutes.TabIndex = 5;
             this.nudMinutes.Value = new decimal(new int[] {
-            1,
+            15,
             0,
             0,
             0});

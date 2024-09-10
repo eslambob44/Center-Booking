@@ -1,25 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\programmin\\first jorney\\Center Booking Devices\\",
+  "WorkspaceRootPath": "D:\\programmin\\first jorney\\Center Booking\\Center Booking Devices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F53476E7-E912-4FE4-BBC7-B9EEAA1578FC}|..\\Center Booking\\Center Booking.csproj|d:\\programmin\\first jorney\\center booking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F53476E7-E912-4FE4-BBC7-B9EEAA1578FC}|..\\Center Booking\\Center Booking.csproj|d:\\programmin\\first jorney\\center booking\\center booking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F53476E7-E912-4FE4-BBC7-B9EEAA1578FC}|..\\Center Booking\\Center Booking.csproj|d:\\programmin\\first jorney\\center booking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F53476E7-E912-4FE4-BBC7-B9EEAA1578FC}|..\\Center Booking\\Center Booking.csproj|d:\\programmin\\first jorney\\center booking\\clsbookingdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D21D01C5-BE55-4F76-94A6-C8F039639BF0}|Center Booking Devices.csproj|D:\\programmin\\first jorney\\Center Booking Devices\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D21D01C5-BE55-4F76-94A6-C8F039639BF0}|Center Booking Devices.csproj|d:\\programmin\\first jorney\\center booking\\center booking devices\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D21D01C5-BE55-4F76-94A6-C8F039639BF0}|Center Booking Devices.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F53476E7-E912-4FE4-BBC7-B9EEAA1578FC}|..\\Center Booking\\Center Booking.csproj|d:\\programmin\\first jorney\\center booking\\frmbookeddeviceinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F53476E7-E912-4FE4-BBC7-B9EEAA1578FC}|..\\Center Booking\\Center Booking.csproj|d:\\programmin\\first jorney\\center booking\\frmbookeddeviceinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,77 +17,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\programmin\\first jorney\\Center Booking Devices\\Form1.cs",
+              "DocumentMoniker": "D:\\programmin\\first jorney\\Center Booking\\Center Booking Devices\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\programmin\\first jorney\\Center Booking Devices\\Form1.cs [Design]",
+              "ToolTip": "D:\\programmin\\first jorney\\Center Booking\\Center Booking Devices\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T16:05:38.427Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmBookedDeviceInfo.cs",
-              "DocumentMoniker": "D:\\programmin\\first jorney\\Center Booking\\frmBookedDeviceInfo.cs",
-              "RelativeDocumentMoniker": "..\\Center Booking\\frmBookedDeviceInfo.cs",
-              "ToolTip": "D:\\programmin\\first jorney\\Center Booking\\frmBookedDeviceInfo.cs",
-              "RelativeToolTip": "..\\Center Booking\\frmBookedDeviceInfo.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAkwCYAAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T15:13:14.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmBookedDeviceInfo.cs [Design]",
-              "DocumentMoniker": "D:\\programmin\\first jorney\\Center Booking\\frmBookedDeviceInfo.cs",
-              "RelativeDocumentMoniker": "..\\Center Booking\\frmBookedDeviceInfo.cs",
-              "ToolTip": "D:\\programmin\\first jorney\\Center Booking\\frmBookedDeviceInfo.cs [Design]",
-              "RelativeToolTip": "..\\Center Booking\\frmBookedDeviceInfo.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T15:12:30.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "clsBookingDevice.cs",
-              "DocumentMoniker": "D:\\programmin\\first jorney\\Center Booking\\clsBookingDevice.cs",
-              "RelativeDocumentMoniker": "..\\Center Booking\\clsBookingDevice.cs",
-              "ToolTip": "D:\\programmin\\first jorney\\Center Booking\\clsBookingDevice.cs",
-              "RelativeToolTip": "..\\Center Booking\\clsBookingDevice.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAAwAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T14:34:02.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\programmin\\first jorney\\Center Booking\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\Center Booking\\Form1.cs",
-              "ToolTip": "D:\\programmin\\first jorney\\Center Booking\\Form1.cs",
-              "RelativeToolTip": "..\\Center Booking\\Form1.cs",
-              "ViewState": "AQIAANcAAAAAAAAAAAAuwPEAAABsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T13:23:27.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T11:58:58.641Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\programmin\\first jorney\\Center Booking\\Form1.cs",
+              "DocumentMoniker": "D:\\programmin\\first jorney\\Center Booking\\Center Booking\\Form1.cs",
               "RelativeDocumentMoniker": "..\\Center Booking\\Form1.cs",
-              "ToolTip": "D:\\programmin\\first jorney\\Center Booking\\Form1.cs [Design]",
+              "ToolTip": "D:\\programmin\\first jorney\\Center Booking\\Center Booking\\Form1.cs [Design]",
               "RelativeToolTip": "..\\Center Booking\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T12:49:31.942Z",
+              "WhenOpened": "2024-09-10T11:58:57.744Z",
               "EditorCaption": " [Design]"
             }
           ]
